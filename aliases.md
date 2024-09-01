@@ -1,4 +1,4 @@
-### My Aliases
+### My Aliases - this is how I use my aliases on Linux based on .zshrc
 
 ```
 alias mp='mousepad'
