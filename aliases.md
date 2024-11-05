@@ -9,3 +9,6 @@ alias oscp='cd ~/Desktop/OSCP/tests'
 alias nmapdef='sudo nmap -sS -sC -sV $ip '
 alias hosts='sudo nano /etc/hosts'
 ```
+### My prompt
+
+`PROMPT='%F$fg{yellow}%B%n%f%B:%~%f '`
