@@ -11,4 +11,6 @@ alias hosts='sudo nano /etc/hosts'
 ```
 ### My prompt
 
-`PROMPT='%F$fg{yellow}%B%n%f%B:%~%f '`
+```
+PROMPT='%F$fg{yellow}%B%n%f%B:%~%f '
+```
